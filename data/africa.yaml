@@ -4,3 +4,10 @@
    lat: 35.707902
    long: -0.578986
    link: https://github.com/amineHorseman
+ - name: Tshwane University of Technologies
+   type: school
+   desription: Hosting annual ROS Summer School
+   address: Staatsartillerie Rd, Pretoria West, Pretoria, 0183, South Africa
+   lat: -25.734349
+   long: 28.174468
+   link: https://www.tut.ac.za/
