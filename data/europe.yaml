@@ -448,3 +448,10 @@
    lat: 50.865348
    long: 4.668832
    link: https://www.pickit3d.com/
+ - name: MASCOR
+   type: research institute
+   description: Mobile Autonomous Systems and Cognitive Robotics
+   address: Aachener-und-Münchener-Allee 1, 52074 Aachen, Germany
+   lat: 50.761353
+   long: 6.074749
+   link: https://www.maskor.fh-aachen.de/en/
