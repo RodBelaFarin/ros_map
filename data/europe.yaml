@@ -455,3 +455,10 @@
    lat: 50.761353
    long: 6.074749
    link: https://www.maskor.fh-aachen.de/en/
+ - name: FH Aachen University of Applied Sciences
+   type: school
+   description: Mobile Autonomous Robotic Systems, Robotics course for Bachelor and Master students
+   address: Goethestraße 1, 52064 Aachen, Germany
+   lat: 50.764146
+   long: 6.080309
+   link: https://www.fh-aachen.de/
